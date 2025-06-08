@@ -1,17 +1,17 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "14316",
+  "TRAIN_COACH": "2S",
+  "TRAVEL_DATE": "24/08/2025",
+  "SOURCE_STATION": "NEW DELHI",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "GHAZIABAD",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Atul sharma",
+      "AGE": 23,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
